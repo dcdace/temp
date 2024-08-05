@@ -22,7 +22,7 @@ dependencies:
     - nilearn==0.10.4
     - nipy==0.6.0
     - nipype==1.8.6
-    - numpy==1.26.4 # dipy v1.9.0 dependency >=1.21.6, <2.27.0
+    - numpy==1.26.4 # dipy v1.9.0 dependency >=1.21.6, <1.27.0
     - nxviz==0.7.4
     - pandas==2.2.2
     - plotly==5.23.0
